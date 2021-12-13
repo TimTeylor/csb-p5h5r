@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://timteylor.github.io/csb-p5h5r/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://timteylor.github.io/csb-p5h5r/static/js/main.135ec733.chunk.js",
+    "main.js.map": "https://timteylor.github.io/csb-p5h5r/static/js/main.135ec733.chunk.js.map",
+    "runtime-main.js": "https://timteylor.github.io/csb-p5h5r/static/js/runtime-main.f7532fa0.js",
+    "runtime-main.js.map": "https://timteylor.github.io/csb-p5h5r/static/js/runtime-main.f7532fa0.js.map",
+    "static/js/2.71fc0bc0.chunk.js": "https://timteylor.github.io/csb-p5h5r/static/js/2.71fc0bc0.chunk.js",
+    "static/js/2.71fc0bc0.chunk.js.map": "https://timteylor.github.io/csb-p5h5r/static/js/2.71fc0bc0.chunk.js.map",
+    "index.html": "https://timteylor.github.io/csb-p5h5r/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://timteylor.github.io/csb-p5h5r/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.71fc0bc0.chunk.js.LICENSE.txt": "https://timteylor.github.io/csb-p5h5r/static/js/2.71fc0bc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7532fa0.js",
+    "static/js/2.71fc0bc0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.135ec733.chunk.js"
+  ]
+}

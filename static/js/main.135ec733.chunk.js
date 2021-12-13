@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),r=n(3),s=n.n(r),a=(n(8),n(0));var i=function(){return Object(a.jsx)("button",{className:"btn border_anim",children:"Send"})};function o(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)(i,{})})}var b=document.getElementById("root");s.a.render(Object(a.jsx)(c.StrictMode,{children:Object(a.jsx)(o,{})}),b)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.135ec733.chunk.js.map
